@@ -1,0 +1,16 @@
+{
+  "name": "jdre",
+  "version": "1.0.0",
+  "description":
+    "this package contains node.js solution for normalizing phone number",
+  "main": "JDRE_assessment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node JDRE_assessment.js"
+  },
+  "author": "Jitendra Purohit",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.0.7"
+  }
+}
